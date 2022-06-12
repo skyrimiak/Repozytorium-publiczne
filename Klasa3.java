@@ -1,3 +1,3 @@
 public class Klasa3 {
-    String klasa="";
+    String klasa="klasa3";
 }
